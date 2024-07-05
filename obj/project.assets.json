@@ -8295,26 +8295,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\TR3BIT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\BookProject\\BookShopByKg\\BookShopByKg.csproj",
+      "projectUniqueName": "C:\\Users\\TR3BIT\\Desktop\\BOOKSHOPMVC\\BookShopByKg.csproj",
       "projectName": "BookShopByKg",
-      "projectPath": "C:\\Users\\User\\Desktop\\BookProject\\BookShopByKg\\BookShopByKg.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\BookProject\\BookShopByKg\\obj\\",
+      "projectPath": "C:\\Users\\TR3BIT\\Desktop\\BOOKSHOPMVC\\BookShopByKg.csproj",
+      "packagesPath": "C:\\Users\\TR3BIT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TR3BIT\\Desktop\\BOOKSHOPMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\TR3BIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8327,11 +8325,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -8398,7 +8391,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
